@@ -22,14 +22,14 @@ export default function Footer() {
         <div className="grid grid-cols-2 justify-between gap-12 py-8 sm:grid-rows-[auto_auto] md:grid-cols-4 md:grid-rows-[auto_auto] md:py-12 lg:grid-cols-[repeat(4,minmax(0,140px))_1fr] lg:grid-rows-1 xl:gap-20">
           {/* 1st block */}
           <div className="space-y-2">
-            <h3 className="text-sm font-medium text-gray-200">Product</h3>
+            <h3 className="text-sm font-medium text-gray-200">Services</h3>
             <ul className="space-y-2 text-sm">
               <li>
                 <a
                   className="text-indigo-200/65 transition hover:text-indigo-500"
                   href="#0"
                 >
-                  Features
+                  WebXR
                 </a>
               </li>
               <li>
@@ -37,7 +37,7 @@ export default function Footer() {
                   className="text-indigo-200/65 transition hover:text-indigo-500"
                   href="#0"
                 >
-                  Integrations
+                  API Integrations
                 </a>
               </li>
               <li>
@@ -45,7 +45,7 @@ export default function Footer() {
                   className="text-indigo-200/65 transition hover:text-indigo-500"
                   href="#0"
                 >
-                  Pricing &amp; Plans
+                  SaaS &amp; Licensing
                 </a>
               </li>
               <li>
@@ -53,7 +53,7 @@ export default function Footer() {
                   className="text-indigo-200/65 transition hover:text-indigo-500"
                   href="#0"
                 >
-                  Changelog
+                  Medical Imaging
                 </a>
               </li>
               <li>
@@ -61,7 +61,7 @@ export default function Footer() {
                   className="text-indigo-200/65 transition hover:text-indigo-500"
                   href="#0"
                 >
-                  Our method
+                  RF Sensing
                 </a>
               </li>
               <li>
@@ -69,21 +69,21 @@ export default function Footer() {
                   className="text-indigo-200/65 transition hover:text-indigo-500"
                   href="#0"
                 >
-                  User policy
+                  ThreeJS
                 </a>
               </li>
             </ul>
           </div>
           {/* 2nd block */}
           <div className="space-y-2">
-            <h3 className="text-sm font-medium text-gray-200">Company</h3>
+            <h3 className="text-sm font-medium text-gray-200">Projects</h3>
             <ul className="space-y-2 text-sm">
               <li>
                 <a
                   className="text-indigo-200/65 transition hover:text-indigo-500"
                   href="#0"
                 >
-                  About us
+                  WebXR-GPT
                 </a>
               </li>
               <li>
@@ -91,7 +91,7 @@ export default function Footer() {
                   className="text-indigo-200/65 transition hover:text-indigo-500"
                   href="#0"
                 >
-                  Diversity &amp; Inclusion
+                  Machine Learning &amp; AI Models
                 </a>
               </li>
               <li>
@@ -99,7 +99,7 @@ export default function Footer() {
                   className="text-indigo-200/65 transition hover:text-indigo-500"
                   href="#0"
                 >
-                  Blog
+                  Drone Swarm RF SCYTHE
                 </a>
               </li>
               <li>
@@ -107,7 +107,7 @@ export default function Footer() {
                   className="text-indigo-200/65 transition hover:text-indigo-500"
                   href="#0"
                 >
-                  Careers
+                  ThreeJS React Components
                 </a>
               </li>
               <li>
@@ -115,7 +115,7 @@ export default function Footer() {
                   className="text-indigo-200/65 transition hover:text-indigo-500"
                   href="#0"
                 >
-                  Financial statements
+                  Logjam
                 </a>
               </li>
             </ul>
@@ -205,7 +205,7 @@ export default function Footer() {
             </div>
             <div className="text-sm">
               <p className="mb-3 text-indigo-200/65">
-                © Cruip.com
+                © Acrapt.us
                 <span className="text-gray-700"> · </span>
                 <a
                   className="text-indigo-200/65 transition hover:text-indigo-500"
